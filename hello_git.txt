@@ -1,0 +1,3 @@
+4/10 BluePrint Git Workshop
+
+Practicing some good ol' git terminal stuff
